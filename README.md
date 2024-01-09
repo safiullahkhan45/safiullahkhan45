@@ -1,9 +1,8 @@
 ### Hi there! This is [Safiullah Khan Sherzad](https://www.linkedin.com/in/safiullah-khan-sherzad-17141516a) here 👋
 
-<!--## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safiullah-khan-sherzad-17141516a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@safiullah-khan145) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15460206/safiullah-khan)
 <br />
--->
 
 I'm a seasoned Full-Stack Developer with a strong background in Python, Javascript, CSS, SQL, Docker, and AWS. My dedication to coding and problem-solving has led me to excel in developing efficient and user-friendly web applications.  
 
